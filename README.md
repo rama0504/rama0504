@@ -1,5 +1,5 @@
 {
-        "merchant_id": "123",
+        "merchant_id": " 214292",
         "merchant_type": "DINERSONE",
         "applicable_on": "bill_with_tax",
         "applicable_from": "2030-10-10"
